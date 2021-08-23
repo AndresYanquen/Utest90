@@ -1,0 +1,30 @@
+co/com/choucair/certification/utest90/userinterface/OpenUpPage.java
+ co.com.choucair.certification.utest90.userinterface.OpenUpPage
+co/com/choucair/certification/utest90/questions/question1.java
+ co.com.choucair.certification.utest90.questions.question1
+co/com/choucair/certification/utest90/tasks/JoinToday.java
+ co.com.choucair.certification.utest90.tasks.JoinToday
+co/com/choucair/certification/utest90/tasks/OpenUp.java
+ co.com.choucair.certification.utest90.tasks.OpenUp
+co/com/choucair/certification/utest90/userinterface/JoinTodayPage.java
+ co.com.choucair.certification.utest90.userinterface.JoinTodayPage
+co/com/choucair/certification/utest90/userinterface/PersonalDataPage.java
+ co.com.choucair.certification.utest90.userinterface.PersonalDataPage
+co/com/choucair/certification/utest90/userinterface/PersonalLocationPage.java
+ co.com.choucair.certification.utest90.userinterface.PersonalLocationPage
+co/com/choucair/certification/utest90/userinterface/SetPasswordPage.java
+ co.com.choucair.certification.utest90.userinterface.SetPasswordPage
+co/com/choucair/certification/utest90/userinterface/DeviceInformationPage.java
+ co.com.choucair.certification.utest90.userinterface.DeviceInformationPage
+co/com/choucair/certification/utest90/tasks/PersonalLocation.java
+ co.com.choucair.certification.utest90.tasks.PersonalLocation
+co/com/choucair/certification/utest90/tasks/SetPassword.java
+ co.com.choucair.certification.utest90.tasks.SetPassword
+co/com/choucair/certification/utest90/model/UTestSignUpData.java
+ co.com.choucair.certification.utest90.model.UTestSignUpData
+co/com/choucair/certification/utest90/tasks/PersonalData.java
+ co.com.choucair.certification.utest90.tasks.PersonalData
+co/com/choucair/certification/utest90/tasks/DeviceInformation.java
+ co.com.choucair.certification.utest90.tasks.DeviceInformation
+co/com/choucair/certification/utest90/questions/Message.java
+ co.com.choucair.certification.utest90.questions.Message
